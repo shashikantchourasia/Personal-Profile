@@ -21,7 +21,7 @@ class App extends Component{
                 { 
                     this.state.displayBio ? (
                     <div>
-                    <p>Currently I have developed a JavaScript project which is a Budget Calculator.</p>
+                    <p>Currently I have developed a JavaScript project which is an Account Estimator.</p>
                     <p>I am currently pursuing my Masters in Electrical And Computer Engineering at the University of Windsor.</p>
                     <button onClick={this.toggleDisplayBio}>Show Less</button>
                 </div>

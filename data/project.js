@@ -12,16 +12,16 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: 'Budget Calculator',
-    description: 'This JavaScript project helps us to calculate our expenses from the total budget.',
-    link: 'https://github.com/shashikantchourasia/-BudgetCalculator',
+    title: 'Account Estimator',
+    description: 'This JavaScript project helps us to calculate our expenses from the total amount.',
+    link: 'https://github.com/shashikantchourasia/-Account-Estimator',
     image: project2
   },
   {
     id: 3,
-    title: 'Vigenere Cipher Decoder',
+    title: 'Cipher Text Decoder',
     description: 'This decoder helps us to decode the encrypted vigenere cipher text ',
-    link: 'https://github.com/shashikantchourasia/-Vigenere-Cipher-Decoder',
+    link: 'https://github.com/shashikantchourasia/-Cipher-Text-Decoder',
     image: project3
   }
 ];
