@@ -14,7 +14,7 @@ const PROJECTS = [
     id: 2,
     title: 'Budget Calculator',
     description: 'This JavaScript project helps us to calculate our expenses from the total budget.',
-    link: 'https://github.com/shashikantchourasia/-BudgetCalculator',
+    link: 'https://github.com/shashikantchourasia/-Account-Estimator',
     image: project2
   },
   {
